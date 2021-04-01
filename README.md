@@ -1,6 +1,6 @@
 # test_dkatalis
 
-A new Flutter application.
+Flutter Apps for DKatalis Project
 
 ## Getting Started
 
